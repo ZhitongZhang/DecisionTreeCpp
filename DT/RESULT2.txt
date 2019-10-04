@@ -1,0 +1,271 @@
+Run 1 with parameters 500, 25 , b
+
+size of training set? -must be greater than or equal to 250, less than or equal to 1000, and a multiple of 250 -
+ 500
+How much to increment? -increment must be 10, 25, or 50-
+25
+basic count heuristic or info-theoretic heuristic? - enter b for bch and i for ith
+b
+Loading Data from database.
+Collecting set of 250 training examples.
+Loading Property Information from file.
+Running with 25 examples in training set.
+
+Given current tree, there are 4847 correct classifications out of 5144 possible (a success rate of 94.2263 percent).
+
+Running with 50 examples in training set.
+
+Given current tree, there are 5029 correct classifications out of 5144 possible (a success rate of 97.7644 percent).
+
+Running with 75 examples in training set.
+
+Given current tree, there are 5029 correct classifications out of 5144 possible (a success rate of 97.7644 percent).
+
+Running with 100 examples in training set.
+
+Given current tree, there are 5029 correct classifications out of 5144 possible (a success rate of 97.7644 percent).
+
+Running with 125 examples in training set.
+
+Given current tree, there are 5098 correct classifications out of 5144 possible (a success rate of 99.1058 percent).
+
+Running with 150 examples in training set.
+
+Given current tree, there are 5098 correct classifications out of 5144 possible (a success rate of 99.1058 percent).
+
+Running with 175 examples in training set.
+
+Given current tree, there are 5098 correct classifications out of 5144 possible (a success rate of 99.1058 percent).
+
+Running with 200 examples in training set.
+
+Given current tree, there are 5098 correct classifications out of 5144 possible (a success rate of 99.1058 percent).
+
+Running with 225 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 250 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 275 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 300 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 325 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 350 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 375 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 400 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 425 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 450 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 475 examples in training set.
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 99.7084 percent).
+
+Running with 500 examples in training set.
+
+Given current tree, there are 5132 correct classifications out of 5144 possible (a success rate of 99.7667 percent).
+
+
+Final Decision Tree
+Branch[0]:  Attribute #4: a Edible.
+Branch[1]:  Attribute #4: l Edible.
+Branch[2]:  Attribute #4: c Poison.
+Branch[3]:  Attribute #4: y Edible.
+Branch[4]:  Attribute #4: f Poison.
+Branch[5]:  Attribute #4: m Poison.
+Branch[6]:  Attribute #4: n:  Attribute #19: k Edible.
+Branch[7]:  Attribute #4: n:  Attribute #19: n Edible.
+Branch[8]:  Attribute #4: n:  Attribute #19: b Edible.
+Branch[9]:  Attribute #4: n:  Attribute #19: h Edible.
+Branch[10]:  Attribute #4: n:  Attribute #19: r Poison.
+Branch[11]:  Attribute #4: n:  Attribute #19: o Edible.
+Branch[12]:  Attribute #4: n:  Attribute #19: u Edible.
+Branch[13]:  Attribute #4: n:  Attribute #19: w:  Attribute #0: b Edible.
+Branch[14]:  Attribute #4: n:  Attribute #19: w:  Attribute #0: c Poison.
+Branch[15]:  Attribute #4: n:  Attribute #19: w:  Attribute #0: x Edible.
+Branch[16]:  Attribute #4: n:  Attribute #19: w:  Attribute #0: f Edible.
+Branch[17]:  Attribute #4: n:  Attribute #19: w:  Attribute #0: k Edible.
+Branch[18]:  Attribute #4: n:  Attribute #19: w:  Attribute #0: s Edible.
+Branch[19]:  Attribute #4: n:  Attribute #19: y Edible.
+Branch[20]:  Attribute #4: p Poison.
+Branch[21]:  Attribute #4: s Edible.
+
+Statistics
+Training set size: 25.   Success:   94.2263 percent.
+Training set size: 50.   Success:   97.7644 percent.
+Training set size: 75.   Success:   97.7644 percent.
+Training set size: 100.   Success:   97.7644 percent.
+Training set size: 125.   Success:   99.1058 percent.
+Training set size: 150.   Success:   99.1058 percent.
+Training set size: 175.   Success:   99.1058 percent.
+Training set size: 200.   Success:   99.1058 percent.
+Training set size: 225.   Success:   99.7084 percent.
+Training set size: 250.   Success:   99.7084 percent.
+Training set size: 275.   Success:   99.7084 percent.
+Training set size: 300.   Success:   99.7084 percent.
+Training set size: 325.   Success:   99.7084 percent.
+Training set size: 350.   Success:   99.7084 percent.
+Training set size: 375.   Success:   99.7084 percent.
+Training set size: 400.   Success:   99.7084 percent.
+Training set size: 425.   Success:   99.7084 percent.
+Training set size: 450.   Success:   99.7084 percent.
+Training set size: 475.   Success:   99.7084 percent.
+Training set size: 500.   Success:   99.7667 percent.
+
+Run 2 with parameters 500, 25 , b
+
+size of training set? -must be greater than or equal to 250, less than or equal to 1000, and a multiple of 250 -
+ 500
+How much to increment? -increment must be 10, 25, or 50-
+25
+basic count heuristic or info-theoretic heuristic? - enter b for bch and i for ith
+b
+Loading Data from database.
+Collecting set of 250 training examples.
+Loading Property Information from file.
+Running with 25 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 50 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 75 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 100 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 125 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 150 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 175 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 200 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 225 examples in training set.
+
+Given current tree, there are 5057 correct classifications out of 5144 possible (a success rate of 98.3087 percent).
+
+Running with 250 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 275 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 300 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 325 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 350 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 375 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 400 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 425 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 450 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 475 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+Running with 500 examples in training set.
+
+Given current tree, there are 5072 correct classifications out of 5144 possible (a success rate of 98.6003 percent).
+
+
+Final Decision Tree
+Branch[0]:  Attribute #4: a Edible.
+Branch[1]:  Attribute #4: l Edible.
+Branch[2]:  Attribute #4: c Poison.
+Branch[3]:  Attribute #4: y Edible.
+Branch[4]:  Attribute #4: f Poison.
+Branch[5]:  Attribute #4: m Poison.
+Branch[6]:  Attribute #4: n:  Attribute #2: n Edible.
+Branch[7]:  Attribute #4: n:  Attribute #2: b Edible.
+Branch[8]:  Attribute #4: n:  Attribute #2: c Edible.
+Branch[9]:  Attribute #4: n:  Attribute #2: g Edible.
+Branch[10]:  Attribute #4: n:  Attribute #2: r Edible.
+Branch[11]:  Attribute #4: n:  Attribute #2: p Poison.
+Branch[12]:  Attribute #4: n:  Attribute #2: u Edible.
+Branch[13]:  Attribute #4: n:  Attribute #2: e Edible.
+Branch[14]:  Attribute #4: n:  Attribute #2: w Edible.
+Branch[15]:  Attribute #4: n:  Attribute #2: y Edible.
+Branch[16]:  Attribute #4: p Poison.
+Branch[17]:  Attribute #4: s Edible.
+
+Statistics
+Training set size: 25.   Success:   98.3087 percent.
+Training set size: 50.   Success:   98.3087 percent.
+Training set size: 75.   Success:   98.3087 percent.
+Training set size: 100.   Success:   98.3087 percent.
+Training set size: 125.   Success:   98.3087 percent.
+Training set size: 150.   Success:   98.3087 percent.
+Training set size: 175.   Success:   98.3087 percent.
+Training set size: 200.   Success:   98.3087 percent.
+Training set size: 225.   Success:   98.3087 percent.
+Training set size: 250.   Success:   98.6003 percent.
+Training set size: 275.   Success:   98.6003 percent.
+Training set size: 300.   Success:   98.6003 percent.
+Training set size: 325.   Success:   98.6003 percent.
+Training set size: 350.   Success:   98.6003 percent.
+Training set size: 375.   Success:   98.6003 percent.
+Training set size: 400.   Success:   98.6003 percent.
+Training set size: 425.   Success:   98.6003 percent.
+Training set size: 450.   Success:   98.6003 percent.
+Training set size: 475.   Success:   98.6003 percent.
+Training set size: 500.   Success:   98.6003 percent.
