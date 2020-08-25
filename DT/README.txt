@@ -18,8 +18,8 @@ Execution instructions:
 
 Included all code in one .cpp file, so just compile (I used g++ MINGW64) like so:
 
-g++ hw1.cpp
-then run executable (./a.out or ./a.exe on Windows)
+g++ DTCPP.cpp
+then run executable (./a.out or ./a.exe on depdning on OS)
 
 
 Collaborators and resources:
