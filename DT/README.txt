@@ -18,7 +18,7 @@ Execution instructions:
 
 Included all code in one .cpp file, so just compile (I used g++ MINGW64) like so:
 
-g++ DTCPP.cpp
+g++ DTC.cpp
 then run executable (./a.out or ./a.exe on depdning on OS)
 
 
